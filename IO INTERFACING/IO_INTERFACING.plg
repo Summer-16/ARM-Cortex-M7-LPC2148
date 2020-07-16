@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Testing\LPC2148 USB Powered Development  board\Codes\IO INTERFACING\IO_INTERFACING.uvproj
+Project File Date:  04/08/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin .\IO_INTERFACING.axf -o .\IO_INTERFACING.bin
+"IO_INTERFACING.axf" - 0 Error(s), 0 Warning(s).

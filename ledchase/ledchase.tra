@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'ledchase.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "main.o" --strict --scatter "ledchase.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ledchase.map" -o "ledchase.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'ledchase.axf'
+### ADS-LD Command File: 'ledchase.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'ledchase.lnp', Handle=0x0000055C
+### Writing '.lnp' file
+### ADS-LD Command file 'ledchase.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

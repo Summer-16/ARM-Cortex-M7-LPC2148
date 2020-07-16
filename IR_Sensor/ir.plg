@@ -1,0 +1,202 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\sam\Desktop\ir\ir.uvproj
+Project File Date:  06/14/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(151): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+main.c(151): error: At end of source:  #67: expected a "}"
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(151): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1020 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Clean started: Project: 'ir'
+   deleting intermediate output files for target 'Target 1'
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+linking...
+Program Size: Code=1028 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+main.c(30): warning:  #550-D: variable "T1" was set but never used
+main.c(30): warning:  #550-D: variable "T2" was set but never used
+main.c(30): warning:  #550-D: variable "T3" was set but never used
+main.c(30): warning:  #550-D: variable "T4" was set but never used
+linking...
+Program Size: Code=1056 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 10 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(152): warning:  #1-D: last line of file ends without a newline
+main.c(30): warning:  #550-D: variable "switchstatus1" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus2" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus3" was set but never used
+main.c(30): warning:  #550-D: variable "switchstatus4" was set but never used
+main.c(30): warning:  #550-D: variable "Ir" was set but never used
+main.c(30): warning:  #550-D: variable "T1" was set but never used
+main.c(30): warning:  #550-D: variable "T2" was set but never used
+main.c(30): warning:  #550-D: variable "T3" was set but never used
+main.c(30): warning:  #550-D: variable "T4" was set but never used
+linking...
+Program Size: Code=1060 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 10 Warning(s).
+Clean started: Project: 'ir'
+   deleting intermediate output files for target 'Target 1'
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(101): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1252 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(109): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1324 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"ir.axf" - 0 Error(s), 1 Warning(s).

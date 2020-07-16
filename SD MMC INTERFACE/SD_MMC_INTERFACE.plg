@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Testing\LPC2148 USB Powered Development  board\Codes\SD MMC INTERFACE\SD_MMC_INTERFACE.uvproj
+Project File Date:  04/08/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling mmcmain.c...
+mmcmain.c(128): warning:  #177-D: variable "i" was declared but never referenced
+mmcmain.c(128): warning:  #177-D: variable "BlockNum" was declared but never referenced
+compiling spi_mmc.c...
+spi_mmc.c(22): warning:  #550-D: variable "Dummy" was set but never used
+spi_mmc.c(45): warning:  #550-D: variable "Dummy" was set but never used
+linking...
+Program Size: Code=2900 RO-data=32 RW-data=520 ZI-data=1768  
+FromELF: creating hex file...
+User command #1: fromelf --bin .\SD_MMC_INTERFACE.axf -o .\SD_MMC_INTERFACE.bin
+"SD_MMC_INTERFACE.axf" - 0 Error(s), 4 Warning(s).
